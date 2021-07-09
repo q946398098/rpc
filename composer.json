@@ -1,0 +1,6 @@
+{
+    "name": "martin/rpc",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {}
+}
